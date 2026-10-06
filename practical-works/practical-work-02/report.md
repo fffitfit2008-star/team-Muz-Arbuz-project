@@ -27,7 +27,6 @@ https://github.com/fffitfit2008-star/team-Muz_Arbuz-project.git
 * **Проверка пул-реквестов (Pull Request) и Слияние веток (merge):** Исполнитель (R) и Ответственный (A) — Руководитель (Романов Р.).
 
 ## 5. Скриншоты истории коммитов и Pull Request
-*(Сюда прикрепляются скриншоты вкладок Commits и Pull Requests с сайта GitHub)*
 <img width="1920" height="932" alt="2026-10-06_18-54-02" src="https://github.com/user-attachments/assets/2af22e11-fa27-4eac-8dc3-50d9895e7401" />
 <img width="1897" height="918" alt="2026-10-06_18-58-40" src="https://github.com/user-attachments/assets/e0326032-a377-4027-afc1-4412e6ef6947" />
 
