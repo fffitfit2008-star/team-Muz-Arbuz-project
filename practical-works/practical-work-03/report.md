@@ -33,13 +33,13 @@
 
 ## 4. Ссылка на опрос и результаты
 
-**Ссылка на Google Форму:** 
+**Ссылка на Google Форму:** https://vk.ru/away.php?to=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLScJRL7QjADOuKOOQmCKfIHUtzXWGI74bKdiN5enGxIWhshbvA%2Fviewform%3Fusp%3Ddialog&utf=1
 
 ### Результаты опроса
 С результатами опроса можно ознакомиться на скриншотах ниже:
 
 
-![Результаты опроса](assets/ТУТ_ВСТАВЬ_ТОЧНОЕ_ИМЯ_ТВОЕГО_СКРИНШОТА.png)
+
 
 ## 5. Вывод
 
